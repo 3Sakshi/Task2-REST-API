@@ -71,7 +71,7 @@ An HTML coverage report can be generated using:
 pytest --cov=main1 --cov-report=html
 ```
 
-The detailed report is available in the htmlcov folder.
+The coverage result is documented in `coverage-report.txt`. An HTML coverage report was also generated locally using pytest-cov.
 
 ## Testing
 The test suite covers:
