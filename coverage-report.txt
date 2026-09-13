@@ -1,0 +1,21 @@
+Task 2 Test Coverage Report
+
+Test Command:
+pytest --cov=main1 --cov-report=term-missing
+
+Test Result:
+11 passed
+
+Coverage Result:
+main1.py      44      0   100%
+TOTAL         44      0   100%
+
+Coverage Summary:
+The main1.py REST API has 100% test coverage.
+
+HTML Coverage Report:
+An HTML coverage report was generated using:
+
+pytest --cov=main1 --cov-report=html
+
+The detailed HTML report was generated successfully in the local htmlcov folder.
